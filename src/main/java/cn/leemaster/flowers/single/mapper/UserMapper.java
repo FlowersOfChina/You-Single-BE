@@ -9,8 +9,6 @@ import org.apache.ibatis.annotations.Mapper;
  * @Description:
  * @date 2018/4/26下午4:13
  */
-
-
 @Mapper
 public interface UserMapper {
 
