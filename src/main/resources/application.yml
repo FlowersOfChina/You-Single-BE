@@ -1,0 +1,11 @@
+server:
+  port: 9596
+mybatis:
+  mapper-locations: classpath:mappers/*.xml
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://server3.leemaster.cn:3306/flowers?useSSL=false
+    password: Flowers666
+    username: flowers
+
